@@ -1,0 +1,1 @@
+This micro service will be using JAVA CORE ONLY
